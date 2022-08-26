@@ -12,18 +12,24 @@ Initially, the user has to input their name as well as age. When submitting thei
 
 Start by opening ‘1.asp’ Fill in the details required.
 ![First Panel](/READmd/1.png)
+<br/><br/><br/><br/>
 
 Click on “Let’s Go” to go ahead or “Go Back” to return to 1.asp
 ![First Panel](/READmd/2.png)
+<br/><br/><br/><br/>
 
 “try.asp” is the MAIN HOME PAGE. You can go to Men’s or Women’s Collection. You can give a feedback! Scroll down to see our partners! You can also view your name here!
 ![First Panel](/READmd/3.png)
+<br/><br/><br/><br/>
 
 Scroll down on “men.asp”/” women.asp” and you can see the clothes available for sale. Hover cursor on the product you like and click on that RADIOBUTTON.
 ![First Panel](/READmd/4.png)
+<br/><br/><br/><br/>
+
 
 Click on View Cart
 ![First Panel](/READmd/5.png)
+<br/><br/><br/><br/>
 
 Here you will see your selected items in the cart. The Grand Total displays the total amount. 
  - Click on “CLEAR CART” to clear the cart.
@@ -31,24 +37,31 @@ Here you will see your selected items in the cart. The Grand Total displays the 
  - Click on “ADD MORE ITEMS FROM WOMEN’S COLLECTION” to buy more products from the Women’s collection. 
  - Click on “PROCEED TO PAYMENT” to confirm the purchase(s) of the item(s). 
 ![First Panel](/READmd/6.jpg)
+<br/><br/><br/><br/>
 
 Your purchases will get confirmed. However, the purchases are delayed as there’s no physical services available due to the ongoing situation.
 ![First Panel](/READmd/7.png)
+<br/><br/><br/><br/>
 
 You can give your amazing feedback by clicking on “FEEDBACK” 
 ![First Panel](/READmd/8.png)
+<br/><br/><br/><br/>
 
 Your feedback will be submitted after clicking on the SUBMIT button.
 ![First Panel](/READmd/9.png)
+<br/><br/><br/><br/>
 
 You can QUIT by clicking on the icon on the TOP-RIGHT CORNER of the screen. 
 ![First Panel](/READmd/10.png)
+<br/><br/><br/><br/>
 
 The Database1-Table1 for CART is updated and deleted upon “CLEAR CART” or “QUIT ICON”
 ![First Panel](/READmd/11.png)
+<br/><br/><br/><br/>
 
 The Database2-Table1 stores all the feedbacks inputs.
 ![First Panel](/READmd/12.png)
+<br/><br/><br/><br/>
 
 
 Author: **Neel Dandiwala**
