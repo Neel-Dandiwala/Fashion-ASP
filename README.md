@@ -1,7 +1,7 @@
 # Fashion Shopping Site
 
 
-![First Panel](/misc/first_panel.jpg)
+![First Panel](/READmd/armani.png)
 
 March 2020
 
